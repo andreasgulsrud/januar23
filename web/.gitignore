@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-/studio/node_modules
-/web/node_modules
 /.pnp
 .pnp.js
 
